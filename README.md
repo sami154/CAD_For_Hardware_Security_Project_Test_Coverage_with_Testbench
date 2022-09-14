@@ -32,7 +32,7 @@ This process is done iteratively until 70% targeted coverage is achieved.
 
 The script will generate the following txt files.
 
-1. vcs_aes_output.txt -->  This file contains the random keys (1st column), plain texts (2nd column) and the corresponding encrypted text (3rd column).
-2. coverage_each_iter.txt --> This file contains the line, condition, toggle and branch coverage respectively for each iteration for checking the coverage.
-3. coverage.txt --> This is intermediate file used for calculating the minimum coverage at any iteration. 
+	1. vcs_aes_output.txt -->  This file contains the random keys (1st column), plain texts (2nd column) and the corresponding encrypted text (3rd column).
+	2. coverage_each_iter.txt --> This file contains the line, condition, toggle and branch coverage respectively for each iteration for checking the coverage.
+	3. coverage.txt --> This is intermediate file used for calculating the minimum coverage at any iteration. 
 
